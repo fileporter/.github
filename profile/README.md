@@ -18,8 +18,9 @@ See [the documentation](https://fileporter.github.io/docs/) for more or to get s
 - audio
   - all common audio formats should be supported
 - special-files
-  - ~~pdf~~ (not yet but planned)
-  - ~~doc/docx~~ (not yet but planned)
+  - pdf
+  - ~~doc/docx~~
+  - ~~archives (zip/tar)~~
 
 ## Stats and technical information
 
