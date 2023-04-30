@@ -1,9 +1,25 @@
 # <img src="https://raw.githubusercontent.com/fileporter/fileporter/master/README.assets/repo-icon.png" alt="" style="display: inline-block; height: 30px;" /> fileporter
 Serve a directory in your local network for view over the browser
 
-fileporter ist a small read-only file-server to give you good access to some files without the need to download them onto the other device or install some software there.
+fileporter is a small read-only file-server to give you good access to some files without the need to download them onto the other device or install some software there.
 
-See [the documentation](https://fileporter.github.io/docs/) for more to get started.
+See [the documentation](https://fileporter.github.io/docs/) for more or to get started.
+
+## File-Supports
+
+- text
+  - all text files are readable
+  - code-files get automatic syntax-highlighting
+  - special support for file-formats like markdown or json
+- videos
+  - all common video formats should be supported
+- images
+  - all common video formats should be supported
+- audio
+  - all common audio formats should be supported
+- special-files
+  - ~~pdf~~ (not yet but planned)
+  - ~~doc/docx~~ (not yet but planned)
 
 ## Stats and technical information
 
