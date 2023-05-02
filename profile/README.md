@@ -22,6 +22,18 @@ See [the documentation](https://fileporter.github.io/docs/) for more or to get s
   - ~~doc/docx~~
   - ~~archives (zip/tar)~~
 
+## Platform support
+
+<!-- ✓ ✅ ❌ ❓ ⓘ -->
+
+| Platform | Supported     | Installer     | Tested |
+|----------|---------------|---------------|--------|
+| Linux    | ✅             | ✅             | ✅      |
+| Windows  | ✅<sup>ⓘ</sup> | ❌             | ❌      |
+| MacOS    | ✅<sup>ⓘ</sup> | ✅<sup>ⓘ</sup> | ❌      |
+
+<small>ⓘ should work. But some adjustments could be needed</small>
+
 ## Stats and technical information
 
 [![pages-build-deployment](https://github.com/fileporter/docs/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/fileporter/docs/actions/workflows/pages/pages-build-deployment)
